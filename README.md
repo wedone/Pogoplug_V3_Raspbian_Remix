@@ -5,8 +5,16 @@
 **I take absolutely no responsibility for any damage(s) that you might cause to your hard- or software-environment by following the descriptions below!**
 
 
-<h1>Pogoplug_V3_Emdebian</h1>
+<h1>Preliminary Version (!!!) of Raspbian for the Pogoplug V3</h1>
 
+All the information below is still just the description for a plain Emdebian. This however will evolve into a Raspbian
+version for the Pogoplug V3. If you ask yourself "why?", the answer is simply ARMV6 support/optimization of Raspbian.
+And because Pogo V3 features a ARMv6 CPU, this should lead to higher performance.
+
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
 
 Scripts to create a bootable Emdebian USB-Stick for the Pogoplug V3 devices.
 
